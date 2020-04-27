@@ -1,0 +1,58 @@
+style{
+    margin: 0em;
+    padding: 0em;
+    box-sizing: border-box;
+    font-size: 40px;
+}
+.grid-container{
+    height: 100vh;
+    border: solid;
+    grid-gap:0px;
+    grid-row-gap: 0px;
+}
+#item-1{
+    background-image:url(img/img1.jpg);
+    border: thin;
+    height: 30vh;
+    font-size: 2em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: azure;
+    text-align: center;
+    padding: 0em;
+}
+#item-2{
+    background-color: crimson;
+    color: white;
+    height: 30vh;
+    font-size: 2em;
+    border: thin;
+    padding: 0em;
+    text-align: center;
+}
+#item-3{
+    background-color: rgb(17, 39, 163);
+    color: white;
+    height: 30vh;
+    font-size: 2em;
+    border: thin;
+    padding: 0em;
+    text-align: center;
+}
+#item-4{
+    background-color: rgb(6, 19, 94);
+    color: white;
+    height: 30vh;
+    font-size: 2em;
+    border: thin;
+    padding: 0em;
+    text-align: center;
+}
+#item-5{
+    background-color: rgb(17, 39, 163);
+    color:black;
+    height: 30vh;
+    font-size: 2em;
+    border: thin;
+    padding: 0em;
+    text-align: center;
+}
