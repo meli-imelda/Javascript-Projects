@@ -1,3 +1,3 @@
 # Javascript projects
 
-A background color code generator
+Contains projects using mostly js
